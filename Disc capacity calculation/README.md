@@ -18,6 +18,7 @@
 - 经过编码的数字信息，以一定深度和宽度、不同长度的凹坑的形式，用烧蚀技术存储在光盘表面呈螺旋线形状的信道上。<br>
 当盘片上环形区域面积一定时，数据容量的大小取决于信道的总长度与信道上存储数据的线密度。<br>
 决定信道长度和线密度大小的主要因素是所用激光的波长，和驱动光盘的机械形式。<br>
+
 ![光盘模型](https://github.com/littlelion-learningcode/Mathematical-modeling/blob/master/Disc%20capacity%20calculation/Logo/logo1.png)
 
 
